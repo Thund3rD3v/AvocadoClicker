@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Avocado from "./components/Avocado";
 import Shop from "./components/shop/Shop";
 import "./index.css";
